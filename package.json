@@ -1,0 +1,15 @@
+{
+    "name": "tenon-js",
+    "version": "0.0.3",
+    "description": "tenon-js",
+    "main": "./dist/tenon.js",
+    "author": "oneroundseven@gmail.com",
+    "license": "MIT",
+    "devDependencies": {},
+    "bin": {
+        "tenon": "./bin/tenon"
+    },
+    "dependencies": {
+        "webpack": "^4.1.1"
+    }
+}
